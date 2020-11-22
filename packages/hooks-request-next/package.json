@@ -1,0 +1,25 @@
+{
+  "name": "midway-hooks-request-next",
+  "version": "0.0.1",
+  "description": "Midway Hooks Front End Request SDK",
+  "keywords": [
+    "midway",
+    "hooks",
+    "request"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:midwayjs/hooks.git"
+  },
+  "author": "",
+  "homepage": "https://github.com/midwayjs/hooks",
+  "license": "ISC",
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}
